@@ -1,0 +1,17 @@
+azure-storage-queue
+circuit-knitting-toolbox[cplex]
+
+azure-storage-queue
+
+psutil
+
+requests
+
+py-cpuinfo
+azure-functions
+qiskit
+
+azure-functions-durable
+psutil
+qiskit_ibm_runtime
+objsize
